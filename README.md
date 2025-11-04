@@ -38,6 +38,53 @@ Com Java:
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Whatsapp:</p>
 
 </div>
-<h2 align="center">APLICATIVOS E PROGRAMAS</h2>
+
+<h2 align="center">PROGRAMAS E FERRAMENTAS</h2>
+<div style="display: flex; justify-content: center;" align="center">
+<div id="gitdesk">
+<img src="https://www.pngmart.com/files/23/Github-Logo-PNG.png" alt="width="100" height="100" ">
+  <p>GitHub</p>
+</div>
+<div id="vscode">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="width="70" height="70" ">
+  <p>VSCode</p>
+  </div>
+  <div id="blend">
+<img src="" alt="">
+    <p>Blender3D</p>
+</div>
+<div id="unity">
+<img src="" alt="">
+  <p>Unity</p>
+</div>
+<div id="teams">
+<img src="" alt="">
+  <p>Microsoft Teams</p>
+</div>
+</div>
+
+<h2 align="center">LINGUAGENS</h2>
+<div style="display: flex; justify-content: center; align-items: center;" align="center">
+<div id="HTML">
+<img src="" alt="">
+  <p>HTML</p>
+</div>
+<div id="CSS">
+<img src="" alt="">
+  <p>CSS</p>
+</div>
+<div id="js">
+<img src="" alt="">
+<p>JavaScript</p>
+</div>
+<div id="java">
+<img src="" alt="">
+  <p>Java</p>
+</div>
+<div id="php">
+<img src="" alt="">
+  <p>PHP</p>
+</div>
+</div>
 
 
