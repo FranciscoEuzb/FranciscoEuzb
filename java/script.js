@@ -1,0 +1,1 @@
+/* Só se eu precisar utilizar alguma animação mais avançada, será por aqui. */
