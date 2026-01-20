@@ -8,6 +8,8 @@
 
 -Atualmente aprendendo mais sobre JavaScript e Java. 
 
+-Aprendendo PHP para juntar ao banco de dados.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=15000&pause=999999999&color=00B1F7&width=1000&lines=__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C)](https://git.io/typing-svg)
 
 
