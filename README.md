@@ -52,15 +52,15 @@ Com Java:
   <p>VSCode</p>
   </div>
   <div id="blend">
-<img src="" alt="">
+<img src="https://freepngimg.com/download/icon/ubuntu/59906-icons-linux-rendering-computer-graphics-blender-3d.png" alt="width="70" height="70" ">
     <p>Blender3D</p>
 </div>
 <div id="unity">
-<img src="" alt="">
+<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F615%2FPNG%2F256%2FUnity_icon-icons.com_56592.png&id=56592&pack_or_individual=pack" alt="width="70" height="70" ">
   <p>Unity</p>
 </div>
 <div id="teams">
-<img src="" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" alt="width="70" height="70" ">
   <p>Microsoft Teams</p>
 </div>
 </div>
@@ -68,23 +68,15 @@ Com Java:
 <h2 align="center">LINGUAGENS</h2>
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
 <div id="HTML">
-<img src="" alt="">
+<img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="width="70" height="70" ">
   <p>HTML</p>
 </div>
 <div id="CSS">
-<img src="" alt="">
+<img src="https://images.icon-icons.com/2790/PNG/512/css_filetype_icon_177544.png" alt="width="70" height="70" ">
   <p>CSS</p>
 </div>
-<div id="js">
-<img src="" alt="">
-<p>JavaScript</p>
-</div>
-<div id="java">
-<img src="" alt="">
-  <p>Java</p>
-</div>
 <div id="php">
-<img src="" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="width="70" height="70" ">
   <p>PHP</p>
 </div>
 </div>
