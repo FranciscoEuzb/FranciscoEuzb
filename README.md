@@ -1,14 +1,14 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=80&duration=2500&pause=1500&width=600&height=115&lines=Hello_world!;How_are_you%3F;%3A%3E)](https://git.io/typing-svg)
 
--Olá, tudo bem? Me chamo Francisco Euzébio. 
+-Olá! Me chamo Francisco Euzébio. 
 
--Tenho 18 anos.
+-Eu tenho 18 anos.
 
--Sou fã número 1 de HTML/CSS.
+-Sou fã número 1 de HTML/CSS; em criar sites.
 
--Atualmente aprendendo mais sobre JavaScript e Java. 
+-Atualmente aprendendo mais sobre outras linguagens.
 
--Aprendendo PHP para juntar ao banco de dados.
+-Aprendendo PHP para juntar ao banco de dados; que eu gosto de aprender, só ando bastante atrasado.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=15000&pause=999999999&color=00B1F7&width=1000&lines=__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C__%7C)](https://git.io/typing-svg)
 
@@ -22,12 +22,11 @@
 
 _____________________________________________________________________________________________________________________________
 
-Projetos: 
-Todos os projetos escolares estão na minha conta estudante, acesse aqui:
+Todos os projetos escolares estão na minha conta estudante, acesse aqui: @
+
+
 Projeto atual:
-Com HTML/CSS:
-Com JavaScript:
-Com Java:
+Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me pergunte, só aceite; isso é antigo).
 
 
 
