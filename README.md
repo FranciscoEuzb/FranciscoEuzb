@@ -80,4 +80,20 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 </div>
 </div>
 
+_____________________________________________________________________________________________________________________________
 
+<h2 align="center">AS MINHAS GRANDES INSPIRAÇÕES</h2>
+<div style="display: flex; justify-content: center; align-items: center;" align="center">
+
+<div id="glitch" >
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Glitch_Productions_2023.svg" alt="width="70" height="70" ">
+  <h3>Glitch Studios</h3>
+  <p></p>
+</div>
+<div id="mojangantig">
+  <img src="https://i.imgur.com/HjIbN8c.jpg" alt="width="70" height="70" ">
+  <h3>Mojang antiga</h3>
+  <p></p>
+</div>
+
+</div>
