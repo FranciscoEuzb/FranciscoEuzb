@@ -14,7 +14,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-830.gif" alt="GIF 1" style="width: 300px; height: auto;">
+  <img src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-830.gif" alt="GIF 1" style="width: 192; height: auto;">
   <img src="https://media1.tenor.com/m/0RSMcwYR1h8AAAAC/frutiger-aero.gif" alt="GIF 2" height="192" width="192">
   <img src="https://media1.tenor.com/m/z77V3ZmiOgkAAAAC/goldfish-aesthetic.gif" alt="height="192" width="192">
   <img src="https://es.picmix.com/pic/download?picId=11919510&key=75df4" alt="height="192" width="192">
@@ -65,25 +65,14 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 </div>
 
 <h2 align="center">LINGUAGENS</h2>
-<div style="display: flex; justify-content: center; align-items: center;" align="center">
-<div id="HTML">
-<img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="width="70" height="70" ">
-  <p>HTML</p>
-</div>
-<div id="CSS">
+<div id="ling" align="center">
+<img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="width="70" height="70"">
 <img src="https://images.icon-icons.com/2790/PNG/512/css_filetype_icon_177544.png" alt="width="70" height="70" ">
-  <p>CSS</p>
-</div>
-<div id="php">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="width="70" height="70" ">
-  <p>PHP</p>
-</div>
-</div>
-
+  </div>
 _____________________________________________________________________________________________________________________________
 
 <h2 align="center">AS MINHAS GRANDES INSPIRAÇÕES</h2>
-<div style="display: flex; justify-content: center; align-items: center;" align="center">
 
 <div id="glitch" >
   <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Glitch_Productions_2023.svg" alt="width="70" height="70" ">
@@ -94,6 +83,4 @@ ________________________________________________________________________________
   <img src="https://i.imgur.com/HjIbN8c.jpg" alt="width="70" height="70" ">
   <h3>Mojang antiga</h3>
   <p></p>
-</div>
-
 </div>
