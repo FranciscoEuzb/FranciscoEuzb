@@ -41,29 +41,16 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 </div>
 
 <h2 align="center">PROGRAMAS E FERRAMENTAS</h2>
-<div style="display: flex; justify-content: center;" align="center">
-<div id="gitdesk">
+<div align="center">
 <img src="https://www.pngmart.com/files/23/Github-Logo-PNG.png" alt="width="100" height="100" ">
-  <p>GitHub</p>
-</div>
-<div id="vscode">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="width="70" height="70" ">
-  <p>VSCode</p>
-  </div>
-  <div id="blend">
 <img src="https://freepngimg.com/download/icon/ubuntu/59906-icons-linux-rendering-computer-graphics-blender-3d.png" alt="width="70" height="70" ">
-    <p>Blender3D</p>
-</div>
-<div id="unity">
 <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F615%2FPNG%2F256%2FUnity_icon-icons.com_56592.png&id=56592&pack_or_individual=pack" alt="width="70" height="70" ">
-  <p>Unity</p>
-</div>
-<div id="teams">
 <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" alt="width="70" height="70" ">
-  <p>Microsoft Teams</p>
 </div>
-</div>
-
+  <p align="center"> ㅤGitHubㅤㅤ VSCode ㅤ Blender ㅤ Unity ㅤㅤTeams </p>
+<br>
+<br>
 <h2 align="center">LINGUAGENS</h2>
 <div id="ling" align="center">
 <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="width="70" height="70"">
@@ -72,16 +59,12 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
   </div>
   <p align="center">HTML ㅤㅤ CSS ㅤ ㅤ PHP</p>
 _____________________________________________________________________________________________________________________________
-
+<br>
+<br>
 <h2 align="center">AS MINHAS GRANDES INSPIRAÇÕES</h2>
+<div id="glimoj" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Glitch_Productions_2023.svg" alt="width="120" height="120" " >
+  <img src="https://i.imgur.com/HjIbN8c.jpg" alt="width="120" height="120" ">
+  </div>
+  <h3 align="center">Glitch StudiosㅤMojang antiga</h3>
 
-<div id="glitch" >
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Glitch_Productions_2023.svg" alt="width="70" height="70" ">
-  <h3>Glitch Studios</h3>
-  <p></p>
-</div>
-<div id="mojangantig">
-  <img src="https://i.imgur.com/HjIbN8c.jpg" alt="width="70" height="70" ">
-  <h3>Mojang antiga</h3>
-  <p></p>
-</div>
