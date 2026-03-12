@@ -48,7 +48,7 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F615%2FPNG%2F256%2FUnity_icon-icons.com_56592.png&id=56592&pack_or_individual=pack" alt="width="70" height="70" ">
 <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" alt="width="70" height="70" ">
 </div>
-  <p align="center"> ㅤGitHubㅤㅤ VSCode ㅤ Blender ㅤ Unity ㅤㅤTeams </p>
+  <p align="center"> ㅤGitHubㅤㅤ VSCode ㅤ Blender  ㅤ  Unity ㅤㅤTeams </p>
 <br>
 <br>
 <h2 align="center">LINGUAGENS</h2>
