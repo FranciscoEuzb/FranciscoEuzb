@@ -70,6 +70,7 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 <img src="https://images.icon-icons.com/2790/PNG/512/css_filetype_icon_177544.png" alt="width="70" height="70" ">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="width="70" height="70" ">
   </div>
+  <p align="center">HTML ㅤㅤ CSS ㅤㅤ PHP</p>
 _____________________________________________________________________________________________________________________________
 
 <h2 align="center">AS MINHAS GRANDES INSPIRAÇÕES</h2>
