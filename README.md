@@ -14,8 +14,8 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-830.gif" alt="GIF 1" style="width: 192; height: auto;">
-  <img src="https://media1.tenor.com/m/0RSMcwYR1h8AAAAC/frutiger-aero.gif" alt="GIF 2" height="192" width="192">
+  <img src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-830.gif" alt=" style="width: 192; height: auto;">
+  <img src="https://media1.tenor.com/m/0RSMcwYR1h8AAAAC/frutiger-aero.gif" alt=" height="192" width="192">
   <img src="https://media1.tenor.com/m/z77V3ZmiOgkAAAAC/goldfish-aesthetic.gif" alt="height="192" width="192">
   <img src="https://es.picmix.com/pic/download?picId=11919510&key=75df4" alt="height="192" width="192">
     </div>
