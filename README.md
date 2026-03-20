@@ -51,6 +51,10 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
   <p align="center"> ㅤGitHubㅤㅤ VSCode ㅤ Blender  ㅤ  Unity ㅤㅤTeams </p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">LINGUAGENS</h2>
 <div id="ling" align="center">
 <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="width="70" height="70"">
@@ -62,13 +66,8 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 <br>
 <br>
 <br>
-  
-_____________________________________________________________________________________________________________________________
 <br>
 <br>
-<br>
-<br>
-
 <h2 align="center">AS MINHAS GRANDES INSPIRAÇÕES</h2>
 <div id="glimoj" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Glitch_Productions_2023.svg" alt="width="120" height="120" " >
