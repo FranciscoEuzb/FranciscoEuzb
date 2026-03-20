@@ -58,13 +58,21 @@ Meu site sobre gostos + selecionador de estados e suas comidas famosas (não me 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="width="70" height="70" ">
   </div>
   <p align="center">HTML ㅤㅤ CSS ㅤ ㅤ PHP</p>
+<br>
+<br>
+<br>
+<br>
+  
 _____________________________________________________________________________________________________________________________
 <br>
 <br>
+<br>
+<br>
+
 <h2 align="center">AS MINHAS GRANDES INSPIRAÇÕES</h2>
 <div id="glimoj" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Glitch_Productions_2023.svg" alt="width="120" height="120" " >
   <img src="https://i.imgur.com/HjIbN8c.jpg" alt="width="120" height="120" ">
   </div>
-  <h3 align="center">Glitch StudiosㅤMojang antiga</h3>
+  <p align="center">Glitch StudiosㅤㅤMojang antiga</p>
 
